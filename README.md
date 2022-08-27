@@ -1,2 +1,4 @@
 # n-body-sim
-python n-body simulation
+n-body simulation written in a jupyter notebook; running python
+
+code was made for a course at my uni.
